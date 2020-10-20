@@ -17,7 +17,7 @@ public class ContactAdapter extends RecyclerView.Adapter<ContactAdapter.ContactV
     public ContactAdapter(ArrayList<Person> contactList) {
         this.contactList = contactList;
     }
-
+//backup
     @NonNull
     @Override
     public ContactViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int i) {
